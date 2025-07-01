@@ -27,6 +27,7 @@ The CTU-13 dataset provides detailed bidirectional network flow summaries, inclu
 ## Results
 
 The model achieved strong classification performance, particularly in distinguishing botnet traffic, demonstrating the effectiveness of graph-based features combined with Spark’s scalable processing.
+
 ![image](https://github.com/user-attachments/assets/a18276f1-8fd7-487a-a05c-1371811e26c6)
 
 
