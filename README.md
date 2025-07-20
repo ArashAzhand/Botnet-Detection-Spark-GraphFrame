@@ -40,7 +40,7 @@ The model achieved strong classification performance, particularly in distinguis
 ## Notes
 
 - Due to the dataset size and graph complexity, computations can be intensive but are efficiently handled by Spark’s distributed architecture.
-- Docker images used to run the environment can be found [here](jupyter/pyspark-notebook) (if you provide your image).
+- Docker images used to run the environment can be found [here](jupyter/pyspark-notebook).
 
 ## Conclusion
 
